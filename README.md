@@ -1,1 +1,2 @@
 # weather-app
+The weather app would not load in starbucks so i could not get the weather key. I decided to make another giphy app because it was fun to do the first times. If I change the url and change the divs the weather app would work as well.

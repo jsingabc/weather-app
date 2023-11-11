@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+}
+
+#line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:140px;
+    width: 500px;
+    background-color: blue;
+}
+
+#lin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:60px;
+    width: 500px;
+    background-color: red;
+}
